@@ -1,0 +1,30 @@
+
+.form-card {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 30px;
+  background-color: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.nav-link {
+  margin-left: 15px;
+}
+
+.nav-link:hover {
+  color: #cfe2ff !important;
+}
+
+.table {
+  margin-top: 20px;
+  vertical-align: middle;
+}
+
+h2 {
+  font-weight: 600;
+}
